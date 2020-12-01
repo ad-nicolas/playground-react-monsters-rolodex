@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/playground-react-monsters-rolodex/static/css/main.a0802f58.chunk.css",
+    "main.js": "/playground-react-monsters-rolodex/static/js/main.b702a263.chunk.js",
+    "main.js.map": "/playground-react-monsters-rolodex/static/js/main.b702a263.chunk.js.map",
+    "runtime-main.js": "/playground-react-monsters-rolodex/static/js/runtime-main.9dc9237c.js",
+    "runtime-main.js.map": "/playground-react-monsters-rolodex/static/js/runtime-main.9dc9237c.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/playground-react-monsters-rolodex/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/playground-react-monsters-rolodex/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/playground-react-monsters-rolodex/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/playground-react-monsters-rolodex/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/playground-react-monsters-rolodex/index.html",
+    "static/css/main.a0802f58.chunk.css.map": "/playground-react-monsters-rolodex/static/css/main.a0802f58.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/playground-react-monsters-rolodex/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dc9237c.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.a0802f58.chunk.css",
+    "static/js/main.b702a263.chunk.js"
+  ]
+}
